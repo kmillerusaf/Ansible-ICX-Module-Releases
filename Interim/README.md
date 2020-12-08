@@ -18,7 +18,7 @@ FI-223408:Ping to self fails, FI-218627:ICX ping validation playbook failing spo
 
 FI-220089:skip for all modules, change check_running_config default: icx_banner.py, icx_config.py, icx_facts.py, icx_l3_interface.py, icx_lldp.py, icx_ping.py, icx_system.py,  icx_vlan.py, icx_command.py, icx_copy.py,icx_interface.py, icx_linkagg.py, icx_logging.py, icx_static_route.py, icx_user.py
 
-FI-223410:unable to add a new vlan to interface as tagged or untagged, FI-218629:Unable to perform purge operation using ansible icx_vlan module, FI-218628:Incorrect interface configured under vlan using icx_vlan module: icx_vlan.py
+FI-223410:unable to add a new vlan to interface as tagged or untagged, FI-218629:Unable to perform purge operation using ansible icx_vlan module, FI-218628:Incorrect interface configured under vlan using icx_vlan module, FI-215508:Unable to configure dhcp snooping and arp inspection using vlan playbook: icx_vlan.py
 
 FI-215386:ip ssh pub-key-file tftp ip rsa_pub_keys.txt command missing line break hence prompt is missing: icx_command.py
 
