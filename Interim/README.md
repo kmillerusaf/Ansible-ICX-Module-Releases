@@ -10,7 +10,7 @@ To use interim release:
 1. Download ansible.tar.gz and easy_install
 2. Run on terminal:
 - chmod +x easy_install
-- ./easy_instal
+- ./easy_install
 Above commands will detect where Ansible is installed, overwrite modified files and add new icx_modules.
 
 # Bug Jiras:Modules
